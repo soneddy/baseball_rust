@@ -14,4 +14,5 @@ Guess 3 numbers in [0-9]: 4 5 6
 Guess 3 numbers in [0-9]: 1 3 5
 1 Strike(s), 1 Ball(s)!
 Guess 3 numbers in [0-9]: 3 2 5
+Correct: [3, 2, 5]
 ```
